@@ -1,4 +1,4 @@
-# My Pet's Qurious의 코드 파일들입니다.
+# 캡스톤디자인 작품, My Pet's Qurious의 코드 파일들입니다.
 
 
 # (이외에 포함된 파일들)
